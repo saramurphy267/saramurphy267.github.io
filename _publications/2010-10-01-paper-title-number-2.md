@@ -5,6 +5,7 @@ permalink: /publication/2010-10-01-paper-title-number-2
 authors: Paul Van Rooy, Afsara Tasnia, Barbara Barletta, Reina Buenconsejo, John D. Crounse, Christopher M. Kenseth, Simone Meinardi, <b>Sara Murphy</b>, Harrison Parker, Benjamin Schulze, John H. Seinfeld, Paul O. Wennberg, Donald R. Blake, and Kelley C. Barsanti.
 excerpt: <div align="center"><img src="../images/TOC_Figure_2.png" alt="Table of Contents Figure" width="50%" height="50%">
 date: 2021-10-28
+showdate: 2021-10-28
 venue: 'Published in <i>ACS Earth and Space Chemistry</i>'
 paperurl: 'http://doi.org/10.1021/acsearthspacechem.1c00248'
 citation: 'Paul Van Rooy, Afsara Tasnia, Barbara Barletta, Reina Buenconsejo, John D. Crounse, Christopher M. Kenseth, Simone Meinardi, Sara Murphy, Harrison Parker, Benjamin Schulze, John H. Seinfeld, Paul O. Wennberg, Donald R. Blake, and Kelley C. Barsanti. ACS Earth and Space Chemistry 2021 5 (11), 3045-3055'

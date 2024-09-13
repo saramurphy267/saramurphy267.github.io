@@ -15,3 +15,13 @@ author_profile: true
   {% include archive-single.html %}
 {% endfor %} 
 
+# Publications In Preparation
+
+Click the links below for current drafts of publications that are in preparation.  
+
+{% include base_path %}
+
+{% for post in site.inprep_publications reversed %}
+  {% include archive-single.html %}
+{% endfor %}  
+

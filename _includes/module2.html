@@ -1,0 +1,26 @@
+<div class = "container2">
+<div class="column1">
+    <img src="{{ include.image_path }}" alt="" width="{{ include.image_width}}" height="90%">
+  </div>
+  <style> 
+	  .text-wrapper {
+    float: left;
+    width: 50%;
+    word-wrap: break-word
+}
+  </style>
+  <div class="text-wrapper">
+    {{ include.description | markdownify }}
+  </div>
+</div>
+<style> 
+.container2 {
+  width: 100%;
+  padding-bottom: 325px;
+  margin: 0px;
+}
+.column1 {
+  float: right;
+  width: 50%;
+}
+</style>
