@@ -15,13 +15,8 @@ author_profile: true
   {% include archive-single.html %}
 {% endfor %} 
 
-# Publications In Preparation
+# Submitted Publications
 
-Click the links below for current drafts of publications that are in preparation.  
-
-{% include base_path %}
-
-{% for post in site.inprep_publications reversed %}
-  {% include archive-single.html %}
-{% endfor %}  
+## <u>Accretion Product Formation in the Self- and Cross-Reactions of Small $\beta$-Hydroxy Peroxy Radicals</u> 
+**Sara E. Murphy**, John D. Crounse, Andras Sun Poulsen, Juliette E. Lipson, Henrik G. Kjeargaard, and Paul O. Wennberg. Submitted to *RSC Environmental Science: Atmospheres*.  
 
